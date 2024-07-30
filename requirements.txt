@@ -1,0 +1,6 @@
+aiogram==3.10.0
+pandas==
+numpy==
+nltk==
+sscikit-learn==
+joblib==
